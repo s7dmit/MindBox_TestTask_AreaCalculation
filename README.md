@@ -1,0 +1,1 @@
+# MindBox_TestTask_AreaCalculation

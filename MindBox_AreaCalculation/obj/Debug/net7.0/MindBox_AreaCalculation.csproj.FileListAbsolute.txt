@@ -1,0 +1,15 @@
+D:\Работа\Тестовые задания\MindBox_AreaCalculation\bin\Debug\net7.0\MindBox_AreaCalculation.exe
+D:\Работа\Тестовые задания\MindBox_AreaCalculation\bin\Debug\net7.0\MindBox_AreaCalculation.deps.json
+D:\Работа\Тестовые задания\MindBox_AreaCalculation\bin\Debug\net7.0\MindBox_AreaCalculation.runtimeconfig.json
+D:\Работа\Тестовые задания\MindBox_AreaCalculation\bin\Debug\net7.0\MindBox_AreaCalculation.dll
+D:\Работа\Тестовые задания\MindBox_AreaCalculation\bin\Debug\net7.0\MindBox_AreaCalculation.pdb
+D:\Работа\Тестовые задания\MindBox_AreaCalculation\obj\Debug\net7.0\MindBox_AreaCalculation.csproj.AssemblyReference.cache
+D:\Работа\Тестовые задания\MindBox_AreaCalculation\obj\Debug\net7.0\MindBox_AreaCalculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Работа\Тестовые задания\MindBox_AreaCalculation\obj\Debug\net7.0\MindBox_AreaCalculation.AssemblyInfoInputs.cache
+D:\Работа\Тестовые задания\MindBox_AreaCalculation\obj\Debug\net7.0\MindBox_AreaCalculation.AssemblyInfo.cs
+D:\Работа\Тестовые задания\MindBox_AreaCalculation\obj\Debug\net7.0\MindBox_AreaCalculation.csproj.CoreCompileInputs.cache
+D:\Работа\Тестовые задания\MindBox_AreaCalculation\obj\Debug\net7.0\MindBox_AreaCalculation.dll
+D:\Работа\Тестовые задания\MindBox_AreaCalculation\obj\Debug\net7.0\refint\MindBox_AreaCalculation.dll
+D:\Работа\Тестовые задания\MindBox_AreaCalculation\obj\Debug\net7.0\MindBox_AreaCalculation.pdb
+D:\Работа\Тестовые задания\MindBox_AreaCalculation\obj\Debug\net7.0\MindBox_AreaCalculation.genruntimeconfig.cache
+D:\Работа\Тестовые задания\MindBox_AreaCalculation\obj\Debug\net7.0\ref\MindBox_AreaCalculation.dll
